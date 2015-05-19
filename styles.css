@@ -1,0 +1,186 @@
+body{
+  background-color: white;
+}
+
+.topMenu{
+  height: 60px;
+  width: 100%;
+  background-color: #DE5E33;
+  padding-left: 0px;
+  border-radius: 15px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.menuItem{
+  height: 50px;
+  margin: 5px;
+  width: 19.2%;
+  float: left;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+  border-radius: 15px;
+}
+
+.menuItem:hover{
+  background-color: white;
+  color: #DE5E33;
+}
+
+#rightSideBar ul{
+  list-style: none;
+  border-radius: 15px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#mainBody{
+  height:auto;
+  width:73%;
+  padding: 10px 5px 5px 5px;
+  margin: 5px;
+  float: left;
+  background-color: #444444;
+  border-radius: 15px;
+  color: white;
+}
+
+#rightSideBar{
+  height: auto;
+  width: 23%;
+  float: right;
+  padding: 5px;
+  margin: 5px;
+  background-color: #444444;
+  border-radius: 15px;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #DE5E33;
+  text-decoration: none;
+}
+
+#footer{
+  height:auto;
+  width:73%;
+  padding: 5px;
+  margin: 5px;
+  float: left;
+  background-color: #444444;
+  border-radius: 15px;
+  color: white;
+}
+
+.sideBarTitle{
+  text-align: center;
+}
+
+.sideBarFooter{
+  text-align: center;
+  font-size: 12px;
+}
+
+#searchBar{
+  background-color: white;
+  border-radius: 15px;
+  color: black;
+  padding-left: 5px;
+}
+
+.month{
+  border-width: 5px;
+  border: solid;
+  border-color: #DE5E33;
+  width: 45%;
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 15px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.friend{
+  border-width: 5px;
+  border: solid;
+  border-color: #DE5E33;
+  width: 250px;
+  height: 350px;
+  padding: 10px 5px 5px 5px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 15px;
+  float: left;
+}
+
+.friend img{
+  display: block;
+  max-width: 100px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.friend h3{
+  text-align: center;
+}
+
+.pr{
+  float:left;
+  display:inline-block;
+  width: 45%;
+  margin: 10px;
+}
+
+#contactUs{
+  font-weight: bold;
+  margin:10px;
+}
+
+.contactInfo{
+  float: left;
+  margin-right: 40px;
+}
+
+#line{
+  height: 2px;
+  width: 100%;
+  background-color: #DE5E33;
+  border-radius: 5px;
+}
+
+#headerImage{
+  display:inline-block;
+}
+
+#loginBlock{
+  display:inline-block;
+  color: #DE5E33;
+  border: 5px;
+  border-style: solid;
+  border-color: #DE5E33;
+  border-radius: 15px;
+  padding: 0px 35px 0px 35px;
+}
+
+.loginItem{
+  border-radius: 5px;
+  background-color: #444444;
+  padding: 5px 50px 5px 5px;
+  border-style: solid;
+  border-color: #DE5E33;
+  border-radius: 5px;
+  color: white;
+}
